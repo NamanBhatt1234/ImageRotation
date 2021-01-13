@@ -3,7 +3,7 @@ Point A is rotated from an angle ϴ to an angle ϴ'.
 
 
 
-Hence,
+Hence
 x=rCos(ϴ) & y=rSin(ϴ)
 And
 x'=rCos(ϴ+ϴ') & y'=rSin(ϴ+ϴ')
